@@ -1,0 +1,42 @@
+Goal
+Make the best 5-card hand (or bluff well enough) to win chips from other players.
+Setup
+Each player gets 2 private cards (called hole cards).
+5 community cards are placed face up on the table (shared by everyone).
+Players combine their 2 cards + community cards to make the best 5-card hand.
+Gameplay Steps
+Blinds:
+Two players put in forced bets called small blind and big blind (to start the pot).
+Pre-Flop:
+Everyone gets 2 cards face down.
+Betting starts (call, raise, or fold).
+Flop:
+3 community cards are dealt face up.
+Another round of betting.
+Turn:
+A 4th community card is dealt.
+Another round of betting.
+River:
+The 5th and final community card is dealt.
+Final round of betting.
+Showdown:
+If 2 or more players remain, they reveal cards.
+Best 5-card hand wins the pot
+Player Actions
+Action	Meaning
+Fold	Quit the round; lose what you’ve bet.
+Check	Pass your turn without betting (if no one bet yet).
+Call	Match the current highest bet.
+Raise	Increase the current bet.
+Poker Hand Rankings (Highest → Lowest)
+Rank	Example	Description
+Royal Flush	A♥ K♥ Q♥ J♥ 10♥	Top straight flush
+Straight Flush	9♣ 8♣ 7♣ 6♣ 5♣	5 in sequence, same suit
+Four of a Kind	7♦ 7♣ 7♠ 7♥ 2♣	4 same value
+Full House	K♠ K♦ K♥ 5♣ 5♠	3 of a kind + a pair
+Flush	A♣ 9♣ 6♣ 3♣ 2♣	5 same suit
+Straight	10♠ 9♥ 8♦ 7♣ 6♠	5 in sequence
+Three of a Kind	4♥ 4♠ 4♦ 9♣ 6♥	3 same value
+Two Pair	Q♣ Q♦ 8♠ 8♣ 3♠	2 different pairs
+One Pair	J♠ J♥ 7♣ 4♦ 2♣	2 same value
+High Card	A♠ 10♦ 8♥ 5♣ 2♣	No combo, highest card wins
